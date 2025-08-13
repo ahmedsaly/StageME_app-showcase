@@ -82,9 +82,9 @@ Researchers typically inspect **paired stains**—for example:
 - **Exports**: Excel (grouped reviewer columns) and PDF (image panels + metadata table).
 
 
-<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d](https://github.com/user-attachments/assets/4c3d4271-d8b5-446e-879b-78be50391dcf" width="800">
+<img src="demo_videos/main_features_1.gif" width="800">
 
-<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d" width="800">
+<img src="demo_videos/main_features_2.gif" width="800">
 
 
 
@@ -95,7 +95,7 @@ Researchers typically inspect **paired stains**—for example:
 - Continue staging; **subsequent reviewers** see prior pairings/entries and **don’t need to re-match**.
 
 
-<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d](https://github.com/user-attachments/assets/a7816fa8-7a4a-4b08-ac43-092042e23a9a" width="800">
+<img src="demo_videos/extendedFeatures.gif" width="800">
 
 ---
 
