@@ -14,7 +14,7 @@ StageME_app-showcase/
 ├─ README.md
 └─ demo_videos/
    ├─ main_features.mkv
-   └─ extended_features.mkv
+   └─ extended_features.mp4
 ```
 
 ---
@@ -81,14 +81,21 @@ Researchers typically inspect **paired stains**—for example:
 - **Pre-saved list** showing accumulated entries across reviewers.  
 - **Exports**: Excel (grouped reviewer columns) and PDF (image panels + metadata table).
 
-![Main Features](demo_videos/main_features.gif)
 
-### `demo_videos/extended_features.mkv`
+<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d](https://github.com/user-attachments/assets/4c3d4271-d8b5-446e-879b-78be50391dcf" width="800">
+
+<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d" width="800">
+
+
+
+
+### `demo_videos/extended_features.mp4`
 - **Duplicate detection** dialog → choose the **best representative** image.  
 - **Unmatched handling**: **classify solo**, **don’t show**, or **find match manually** (file dialog).  
 - Continue staging; **subsequent reviewers** see prior pairings/entries and **don’t need to re-match**.
 
-![Extended Matching](demo_videos/extended_features.gif)
+
+<img src="https://github.com/user-attachments/assets/5b3832f4-af6b-43de-a0b2-9f6ac2b5324d](https://github.com/user-attachments/assets/a7816fa8-7a4a-4b08-ac43-092042e23a9a" width="800">
 
 ---
 
