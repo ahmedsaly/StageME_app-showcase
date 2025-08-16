@@ -1,6 +1,9 @@
 # StageME — Blinded Multi-Reviewer Staging for Hair/Skin Microscopy (Showcase)
 
-> A lab-grade workflow to **pair multi-stain microscopic images**, review them **blindly and in randomized order**, capture **multi-reviewer staging** with comments & final decisions, and export **audit-ready Excel/PDF** reports.
+
+> **StageME is a PyQt-based Python desktop app** for blinded, multi-reviewer staging of hair/skin microscopy.  
+
+> This repository is a **showcase** only (GIFs/videos, no source code), demonstrating how the app provides a lab-grade workflow to **pair multi-stain microscopic images**, review them **blindly and in randomized order**, capture **multi-reviewer staging** with comments & final decisions, and export **audit-ready Excel/PDF** reports.
 
 <img width="2878" height="1556" alt="image" src="https://github.com/user-attachments/assets/0d41e256-58c1-45b3-bbda-985850718052" />
 
